@@ -1,0 +1,51 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+/learning/datasets
+# Virtual environments
+.venv
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+frontend/nba-prediction/node_modules
+frontend/nba-prediction//.pnp
+frontend/nba-prediction/.pnp.*
+frontend/nba-prediction/.yarn/*
+frontend/nba-prediction/!.yarn/patches
+frontend/nba-prediction/!.yarn/plugins
+frontend/nba-prediction/!.yarn/releases
+frontend/nba-prediction/!.yarn/versions
+frontend/nba-prediction/
+frontend/nba-prediction/# testing
+frontend/nba-prediction//coverage
+frontend/nba-prediction/
+frontend/nba-prediction/# next.js
+frontend/nba-prediction//.next/
+frontend/nba-prediction//out/
+frontend/nba-prediction/
+frontend/nba-prediction/# production
+frontend/nba-prediction//build
+frontend/nba-prediction/
+frontend/nba-prediction/# misc
+frontend/nba-prediction/.DS_Store
+frontend/nba-prediction/*.pem
+frontend/nba-prediction/
+frontend/nba-prediction/# debug
+frontend/nba-prediction/npm-debug.log*
+frontend/nba-prediction/yarn-debug.log*
+frontend/nba-prediction/yarn-error.log*
+frontend/nba-prediction/.pnpm-debug.log*
+frontend/nba-prediction/
+frontend/nba-prediction/# env files (can opt-in for committing if needed)
+frontend/nba-prediction/.env*
+frontend/nba-prediction/
+frontend/nba-prediction/# vercel
+frontend/nba-prediction/.vercel
+frontend/nba-prediction/
+frontend/nba-prediction/# typescript
+frontend/nba-prediction/*.tsbuildinfo
+frontend/nba-prediction/next-env.d.ts
